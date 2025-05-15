@@ -1,2 +1,2 @@
-# Whatsapp_Chatbot
-Automatic_message-sender
+# multi_wa_chat
+Multiple whatsapp chatbot
